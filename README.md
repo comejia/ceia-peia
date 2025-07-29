@@ -1,8 +1,8 @@
 # Probabilidad y Estadistica para Inteligencia Artificial (PEIA)
 
-PEIA es una materia correspondiente al bimestre 1 de la Carrera de Especialización en Inteligencia Artificial.
+PEIA es una materia correspondiente al bimestre 1 de la Carrera de Especialización en Inteligencia Artificial (CEIA).
 
-Es un curso introductorio que cubre los fundamentos de la probabilidad y la estadística que luego se utilizaran a lo largo de la carrara.
+Es un curso introductorio que cubre los fundamentos de la probabilidad y la estadística que luego se utilizaran a lo largo de la carrera.
 
 ## Contenido del curso
 - **Introducción a la Probabilidad**: Conceptos básicos, eventos, espacio muestral, probabilidad condicional.
